@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="atcrowdfunding02-admin-webui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5631a58a-326f-4095-97e7-4a97bc4c55e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Desktop/meituan/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Desktop/meituan/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bcKlE1bhhx2nhmYMQii22AE4fJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/zzk/atcrowdfunding/constant" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/zzk/atcrowdfunding/util" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zzk.atcrowdfunding.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/pages" />
+      <recent name="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ssm">
+    <configuration name="Test1.testAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowdfunding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowdfunding" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowdfunding.Test1" />
+      <option name="METHOD_NAME" value="testAdmin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.testDataSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowdfunding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowdfunding" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowdfunding.Test1" />
+      <option name="METHOD_NAME" value="testDataSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowdfunding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowdfunding" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowdfunding.Test1" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.testTx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowdfunding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowdfunding" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowdfunding.Test1" />
+      <option name="METHOD_NAME" value="testTx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEncrypt.testMd5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowdfunding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowdfunding" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowdfunding.TestEncrypt" />
+      <option name="METHOD_NAME" value="testMd5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_atcrowdfunding01-admin-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53598" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/atcrowdfunding02_admin_webui_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="atcrowdfunding02-admin-webui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/atcrowdfunding02_admin_webui_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_atcrowdfunding01-admin-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53598" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="atcrowdfunding02-admin-webui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test1.testDataSource" />
+      <item itemvalue="JUnit.Test1.testInsert" />
+      <item itemvalue="JUnit.Test1.testTx" />
+      <item itemvalue="Tomcat Server.ssm" />
+      <item itemvalue="JUnit.TestEncrypt.testMd5" />
+      <item itemvalue="JUnit.Test1.testAdmin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test1.testAdmin" />
+        <item itemvalue="JUnit.TestEncrypt.testMd5" />
+        <item itemvalue="JUnit.Test1.testTx" />
+        <item itemvalue="JUnit.Test1.testInsert" />
+        <item itemvalue="JUnit.Test1.testDataSource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18085767" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5631a58a-326f-4095-97e7-4a97bc4c55e4" name="Default Changelist" comment="" />
+      <created>1588926091095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588926091095</updated>
+      <workItem from="1588926095005" duration="634000" />
+      <workItem from="1589958255052" duration="6616000" />
+      <workItem from="1590041658333" duration="24036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1590220818603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1590220818603" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590063221564">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590063221564" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1590289965575">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590289965575" />
+    <state x="439" y="190" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1590054670986">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="439" y="190" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1680.1050@0.0.1680.1050" timestamp="1590054670986" />
+    <state x="325" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589961056350">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="325" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589961056350" />
+    <state width="1317" height="415" key="GridCell.Tab.0.bottom" timestamp="1590294736505">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736505" />
+    <state width="1638" height="415" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1589973072867" />
+    <state width="1317" height="330" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1590227720001" />
+    <state width="1317" height="330" key="GridCell.Tab.0.bottom/0.23.1680.982@0.23.1680.982" timestamp="1590221744804" />
+    <state width="1317" height="415" key="GridCell.Tab.0.bottom/0.23.1680.983@0.23.1680.983" timestamp="1590292894987" />
+    <state width="1317" height="415" key="GridCell.Tab.0.center" timestamp="1590294736503">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736503" />
+    <state width="1638" height="415" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1589973072865" />
+    <state width="1317" height="330" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1590227720000" />
+    <state width="1317" height="330" key="GridCell.Tab.0.center/0.23.1680.982@0.23.1680.982" timestamp="1590221744802" />
+    <state width="1317" height="415" key="GridCell.Tab.0.center/0.23.1680.983@0.23.1680.983" timestamp="1590292894985" />
+    <state width="1317" height="415" key="GridCell.Tab.0.left" timestamp="1590294736502">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736502" />
+    <state width="1638" height="415" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1589973072864" />
+    <state width="1317" height="330" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1590227719999" />
+    <state width="1317" height="330" key="GridCell.Tab.0.left/0.23.1680.982@0.23.1680.982" timestamp="1590221744802" />
+    <state width="1317" height="415" key="GridCell.Tab.0.left/0.23.1680.983@0.23.1680.983" timestamp="1590292894984" />
+    <state width="1317" height="415" key="GridCell.Tab.0.right" timestamp="1590294736504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736504" />
+    <state width="1638" height="415" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1589973072865" />
+    <state width="1317" height="330" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1590227720001" />
+    <state width="1317" height="330" key="GridCell.Tab.0.right/0.23.1680.982@0.23.1680.982" timestamp="1590221744803" />
+    <state width="1317" height="415" key="GridCell.Tab.0.right/0.23.1680.983@0.23.1680.983" timestamp="1590292894986" />
+    <state width="1317" height="415" key="GridCell.Tab.1.bottom" timestamp="1590294736507">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736507" />
+    <state width="1317" height="330" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1590227720003" />
+    <state width="1317" height="330" key="GridCell.Tab.1.bottom/0.23.1680.982@0.23.1680.982" timestamp="1590221744807" />
+    <state width="1317" height="415" key="GridCell.Tab.1.bottom/0.23.1680.983@0.23.1680.983" timestamp="1590292894911" />
+    <state width="1317" height="415" key="GridCell.Tab.1.center" timestamp="1590294736506">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736506" />
+    <state width="1317" height="330" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1590227720002" />
+    <state width="1317" height="330" key="GridCell.Tab.1.center/0.23.1680.982@0.23.1680.982" timestamp="1590221744806" />
+    <state width="1317" height="415" key="GridCell.Tab.1.center/0.23.1680.983@0.23.1680.983" timestamp="1590292894910" />
+    <state width="1317" height="415" key="GridCell.Tab.1.left" timestamp="1590294736505">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736505" />
+    <state width="1317" height="330" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1590227720002" />
+    <state width="1317" height="330" key="GridCell.Tab.1.left/0.23.1680.982@0.23.1680.982" timestamp="1590221744805" />
+    <state width="1317" height="415" key="GridCell.Tab.1.left/0.23.1680.983@0.23.1680.983" timestamp="1590292894909" />
+    <state width="1317" height="415" key="GridCell.Tab.1.right" timestamp="1590294736506">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736506" />
+    <state width="1317" height="330" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1590227720002" />
+    <state width="1317" height="330" key="GridCell.Tab.1.right/0.23.1680.982@0.23.1680.982" timestamp="1590221744806" />
+    <state width="1317" height="415" key="GridCell.Tab.1.right/0.23.1680.983@0.23.1680.983" timestamp="1590292894911" />
+    <state width="1317" height="415" key="GridCell.Tab.2.bottom" timestamp="1590294736509">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736509" />
+    <state width="1317" height="330" key="GridCell.Tab.2.bottom/0.23.1680.981@0.23.1680.981" timestamp="1590227720005" />
+    <state width="1317" height="330" key="GridCell.Tab.2.bottom/0.23.1680.982@0.23.1680.982" timestamp="1590221744810" />
+    <state width="1317" height="415" key="GridCell.Tab.2.bottom/0.23.1680.983@0.23.1680.983" timestamp="1590292894915" />
+    <state width="1317" height="415" key="GridCell.Tab.2.center" timestamp="1590294736508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736508" />
+    <state width="1317" height="330" key="GridCell.Tab.2.center/0.23.1680.981@0.23.1680.981" timestamp="1590227720004" />
+    <state width="1317" height="330" key="GridCell.Tab.2.center/0.23.1680.982@0.23.1680.982" timestamp="1590221744808" />
+    <state width="1317" height="415" key="GridCell.Tab.2.center/0.23.1680.983@0.23.1680.983" timestamp="1590292894913" />
+    <state width="1317" height="415" key="GridCell.Tab.2.left" timestamp="1590294736507">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736507" />
+    <state width="1317" height="330" key="GridCell.Tab.2.left/0.23.1680.981@0.23.1680.981" timestamp="1590227720003" />
+    <state width="1317" height="330" key="GridCell.Tab.2.left/0.23.1680.982@0.23.1680.982" timestamp="1590221744808" />
+    <state width="1317" height="415" key="GridCell.Tab.2.left/0.23.1680.983@0.23.1680.983" timestamp="1590292894912" />
+    <state width="1317" height="415" key="GridCell.Tab.2.right" timestamp="1590294736508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590294736508" />
+    <state width="1317" height="330" key="GridCell.Tab.2.right/0.23.1680.981@0.23.1680.981" timestamp="1590227720004" />
+    <state width="1317" height="330" key="GridCell.Tab.2.right/0.23.1680.982@0.23.1680.982" timestamp="1590221744809" />
+    <state width="1317" height="415" key="GridCell.Tab.2.right/0.23.1680.983@0.23.1680.983" timestamp="1590292894914" />
+    <state width="1317" height="415" key="GridCell.Tab.3.bottom" timestamp="1590291863663">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590291863663" />
+    <state width="1317" height="415" key="GridCell.Tab.3.center" timestamp="1590291863662">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590291863662" />
+    <state width="1317" height="415" key="GridCell.Tab.3.left" timestamp="1590291863662">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590291863662" />
+    <state width="1317" height="415" key="GridCell.Tab.3.right" timestamp="1590291863663">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1317" height="415" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590291863663" />
+    <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1589962073942">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="378" y="187" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589962073942" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1590291055517">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590291055517" />
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1590063139576">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590063139576" />
+    <state x="204" y="172" key="new project wizard" timestamp="1589959144996">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="204" y="172" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1589959144996" />
+  </component>
+</project>
