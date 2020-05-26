@@ -1,5 +1,7 @@
 package com.zzk.atcrowdfunding.service.impl;
 
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import com.zzk.atcrowdfunding.constant.CrowdConstant;
 import com.zzk.atcrowdfunding.entity.Admin;
 import com.zzk.atcrowdfunding.entity.AdminExample;
@@ -54,5 +56,18 @@ public class AdminServiceImpl implements AdminService {
         // 7。如果一样，则返回admin对象
 
         return admin;
+    }
+
+    @Override
+    public PageInfo<Admin> getPageInfo(String keyword, Integer pageNum, Integer pageSize) {
+
+        // 1. 调用静态方法开启分页功能
+        PageHelper.startPage(pageNum, pageSize);
+
+        // 2。执行查询方法
+        List<Admin> list = adminMapper.selectAdminByKeyword(keyword);
+
+        // 3。封装到pageInfo对象中
+        return new PageInfo<>(list);
     }
 }

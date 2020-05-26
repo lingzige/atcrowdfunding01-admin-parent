@@ -30,4 +30,20 @@
     <mvc:view-controller path="/admin/to/login/page.html" view-name="admin-login"/>
     <mvc:view-controller path="/admin/to/main/page.html" view-name="admin-main"/>
     
+<!--    6. 注册拦截器-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+<!--            mapping:要拦截的资源，/**表示对应多层路径：/aa/bb/cc这种-->
+            <mvc:mapping path="/**"/>
+<!--            exclude-mapping:不拦截的资源去登录的页面-->
+            <mvc:exclude-mapping path="/admin/to/login/page.html"/>
+<!--            登录页面执行的逻辑-->
+            <mvc:exclude-mapping path="/admin/do/login.html"/>
+<!--            退出-->
+            <mvc:exclude-mapping path="/admin/do/logout.htmll"/>
+            <bean id="loginInterceptor" class="com.zzk.atcrowdfunding.mvc.interceptor.LoginInterceptor"/>
+        </mvc:interceptor>
+
+    </mvc:interceptors>
+    
 </beans>
