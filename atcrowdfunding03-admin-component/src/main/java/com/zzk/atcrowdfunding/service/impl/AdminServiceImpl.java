@@ -9,6 +9,8 @@ import com.zzk.atcrowdfunding.exception.LoginFailedException;
 import com.zzk.atcrowdfunding.mapper.AdminMapper;
 import com.zzk.atcrowdfunding.service.api.AdminService;
 import com.zzk.atcrowdfunding.util.CrowdUtil;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -17,6 +19,8 @@ import java.util.Objects;
 
 @Service
 public class AdminServiceImpl implements AdminService {
+
+    private Logger logger = LoggerFactory.getLogger(AdminServiceImpl.class);
 
     @Autowired
     private AdminMapper adminMapper;
@@ -66,6 +70,7 @@ public class AdminServiceImpl implements AdminService {
 
         // 2。执行查询方法
         List<Admin> list = adminMapper.selectAdminByKeyword(keyword);
+        logger.info("list={}", list);
 
         // 3。封装到pageInfo对象中
         return new PageInfo<>(list);

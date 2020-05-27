@@ -164,11 +164,11 @@
                             </tr>
                             </thead>
                             <tbody>
-                            <c:if test="empty ${requestScope.pageInfo.list}">
+                            <c:if test="${empty requestScope.pageInfo.list}">
                                 <td colspan="6" align="center">抱歉，没有查询到您要的数据</td>
                             </c:if>
 
-                            <c:if test="!empty ${requestScope.pageInfo.list}">
+                            <c:if test="${!empty requestScope.pageInfo.list}">
                                 <c:forEach items="${requestScope.pageInfo.list}" var="admin" varStatus="myStatus">
                                     <tr>
                                         <td>${myStatus.count}</td>

@@ -72,12 +72,12 @@
   </sql>
   
   <select id="selectAdminByKeyword" resultMap="BaseResultMap" parameterType="java.lang.String">
-    select
-    <include refid="Base_Column_List"/>
-    from t_admin where login_acct like concat("%", #{keyword}, "%") or
-    user_name like concat("%", #{keyword}, "%") or
-    email like concat("%", #{keyword}, "%")
-  </select>
+  select
+  <include refid="Base_Column_List"/>
+  from t_admin where login_acct like concat("%", #{keyword}, "%") or
+  user_name like concat("%", #{keyword}, "%") or
+  email like concat("%", #{keyword}, "%")
+</select>
 
   <select id="getAdminByLoginAcct" resultMap="BaseResultMap" parameterType="java.lang.String">
     select * from t_admin where login_acct=#{userName}

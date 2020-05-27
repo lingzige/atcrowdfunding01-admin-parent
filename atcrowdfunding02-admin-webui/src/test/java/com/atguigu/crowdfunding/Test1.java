@@ -50,9 +50,15 @@ public class Test1 {
 
     @Test
     public void testInsert(){
-        Admin admin = new Admin(null,"小明","12345","xiaoming","xiaoming@qq.com",null);
-        int insert = adminMapper.insert(admin);
-        System.out.println(insert);
+        String Acct = "小明";
+        String userName = "xiaoming";
+        String email = "xiaoming@";
+        for(int i=0;i<100;i++){
+            Admin admin = new Admin(null,Acct+i,"123123",userName+i,email+i,null);
+            int insert = adminMapper.insert(admin);
+            System.out.println(insert);
+        }
+
     }
 
 }
